@@ -1,4 +1,4 @@
-# Question: 
+# Question:  
 
 Write a bash script that prints the string "HELLO".
 
